@@ -1,0 +1,285 @@
+{
+  'code': '200',
+  'error_msg': '操作成功',
+  'data': {
+    'goods_id': '2962436',
+    'preview_images': [
+      {
+        'small_image': 'https://file.yrmall.net/data/rental/goods/big/G200820-46687422.jpg',
+        'middle_image': 'https://file.yrmall.net/data/rental/goods/big/G200820-46687422.jpg',
+        'big_image': 'https://file.yrmall.net/data/rental/goods/big/G200820-46687422.jpg'
+      },
+      {
+        'small_image': 'https://file.yrmall.net/data/rental/goods/other/G200820-46687422-1.jpg',
+        'middle_image': 'https://file.yrmall.net/data/rental/goods/other/G200820-46687422-1.jpg',
+        'big_image': 'https://file.yrmall.net/data/rental/goods/other/G200820-46687422-1.jpg'
+      }
+    ],
+    'goods_code': 'G200820-46687422',
+    'goods_title': '女装裙子连衣裙',
+    'goods_type': '100',
+    'goods_type_name': '代购商品',
+    'order_min_qty': 1,
+    'order_max_qty': 100,
+    'price': '10000',
+    'rmb_price': '60.24',
+    'agency_fee': '2.40',
+    'agency_fee_rate': '4',
+    'delivery_city_code': 110100,
+    'pre_delivery_fee': '11.29',
+    'delivery_fee_remark': '运费说明正在补充，详细情况请咨询客服',
+    'supplier_building_name': '청평화(清平和)',
+    'supplier_name': '바이엘byel',
+    'supplier_id': 18648,
+    'options': [
+      {
+        'option_id': '5945745',
+        'option_name': 'color',
+        'items': [
+          {
+            'item_id': '7366537',
+            'item_name': '黑色'
+          },
+          {
+            'item_id': '7366538',
+            'item_name': '米色'
+          }
+        ]
+      },
+      {
+        'option_id': '5945746',
+        'option_name': 'Size',
+        'items': [
+          {
+            'item_id': '7366539',
+            'item_name': 'Free'
+          }
+        ]
+      }
+    ],
+    'other_images': [
+      'https://file.yrmall.net/data/rental/goods/big/G200820-46687422.jpg',
+      'https://file.yrmall.net/data/rental/goods/other/G200820-46687422-1.jpg'
+    ],
+    'delivery_place': '韩国-首尔',
+    'delivery_message': '预计下单后3-5个工作日内送达',
+    'goods_state': '100',
+    'goods_state_name': '在售',
+    'relation_goods': [
+      {
+        'goods_id': '2940488',
+        'goods_title': '女装裙子连衣裙',
+        'goods_type': 0,
+        'goods_type_name': '现货商品',
+        'order_min_qty': 0,
+        'order_max_qty': 0,
+        'rmb_price': '102.40',
+        'delivery_city_code': 0,
+        'supplier_id': 0,
+        'goods_state_name': '断货',
+        'is_favorite': 0,
+        'is_favorite_supplier': 0,
+        'small_image': 'https://file.yrmall.net/data/rental/goods/small/G200610-42477849.jpg',
+        'middle_image': 'https://file.yrmall.net/data/rental/goods/middle/G200610-42477849.jpg',
+        'large_image': 'https://file.yrmall.net/data/rental/goods/big/G200610-42477849.jpg',
+        'articles': None,
+        'is_bargain': 0
+      },
+      {
+        'goods_id': '2918562',
+        'goods_title': '女装裙子连衣裙',
+        'goods_type': 0,
+        'goods_type_name': '现货商品',
+        'order_min_qty': 0,
+        'order_max_qty': 0,
+        'rmb_price': '96.38',
+        'delivery_city_code': 0,
+        'supplier_id': 0,
+        'goods_state_name': '断货',
+        'is_favorite': 0,
+        'is_favorite_supplier': 0,
+        'small_image': 'https://file.yrmall.net/data/rental/goods/small/G200514-40884692.jpg',
+        'middle_image': 'https://file.yrmall.net/data/rental/goods/middle/G200514-40884692.jpg',
+        'large_image': 'https://file.yrmall.net/data/rental/goods/big/G200514-40884692.jpg',
+        'articles': None,
+        'is_bargain': 0
+      },
+      {
+        'goods_id': '2940437',
+        'goods_title': '女装裙子连衣裙',
+        'goods_type': 0,
+        'goods_type_name': '现货商品',
+        'order_min_qty': 0,
+        'order_max_qty': 0,
+        'rmb_price': '96.38',
+        'delivery_city_code': 0,
+        'supplier_id': 0,
+        'goods_state_name': '断货',
+        'is_favorite': 0,
+        'is_favorite_supplier': 0,
+        'small_image': 'https://file.yrmall.net/data/rental/goods/small/G200610-42296087.jpg',
+        'middle_image': 'https://file.yrmall.net/data/rental/goods/middle/G200610-42296087.jpg',
+        'large_image': 'https://file.yrmall.net/data/rental/goods/big/G200610-42296087.jpg',
+        'articles': None,
+        'is_bargain': 0
+      },
+      {
+        'goods_id': '2940496',
+        'goods_title': '女装裙子连衣裙',
+        'goods_type': 0,
+        'goods_type_name': '现货商品',
+        'order_min_qty': 0,
+        'order_max_qty': 0,
+        'rmb_price': '90.36',
+        'delivery_city_code': 0,
+        'supplier_id': 0,
+        'goods_state_name': '断货',
+        'is_favorite': 0,
+        'is_favorite_supplier': 0,
+        'small_image': 'https://file.yrmall.net/data/rental/goods/small/G200610-42554605.jpg',
+        'middle_image': 'https://file.yrmall.net/data/rental/goods/middle/G200610-42554605.jpg',
+        'large_image': 'https://file.yrmall.net/data/rental/goods/big/G200610-42554605.jpg',
+        'articles': None,
+        'is_bargain': 0
+      },
+      {
+        'goods_id': '2962356',
+        'goods_title': '女装裙子连衣裙',
+        'goods_type': 0,
+        'goods_type_name': '现货商品',
+        'order_min_qty': 0,
+        'order_max_qty': 0,
+        'rmb_price': '114.45',
+        'delivery_city_code': 0,
+        'supplier_id': 0,
+        'goods_state_name': '断货',
+        'is_favorite': 0,
+        'is_favorite_supplier': 0,
+        'small_image': 'https://file.yrmall.net/data/rental/goods/small/G200820-46204026.jpg',
+        'middle_image': 'https://file.yrmall.net/data/rental/goods/middle/G200820-46204026.jpg',
+        'large_image': 'https://file.yrmall.net/data/rental/goods/big/G200820-46204026.jpg',
+        'articles': None,
+        'is_bargain': 0
+      },
+      {
+        'goods_id': '2940495',
+        'goods_title': '女装裙子连衣裙',
+        'goods_type': 0,
+        'goods_type_name': '现货商品',
+        'order_min_qty': 0,
+        'order_max_qty': 0,
+        'rmb_price': '66.26',
+        'delivery_city_code': 0,
+        'supplier_id': 0,
+        'goods_state_name': '断货',
+        'is_favorite': 0,
+        'is_favorite_supplier': 0,
+        'small_image': 'https://file.yrmall.net/data/rental/goods/small/G200610-42554315.jpg',
+        'middle_image': 'https://file.yrmall.net/data/rental/goods/middle/G200610-42554315.jpg',
+        'large_image': 'https://file.yrmall.net/data/rental/goods/big/G200610-42554315.jpg',
+        'articles': None,
+        'is_bargain': 0
+      },
+      {
+        'goods_id': '2940428',
+        'goods_title': '女装裙子连衣裙',
+        'goods_type': 0,
+        'goods_type_name': '现货商品',
+        'order_min_qty': 0,
+        'order_max_qty': 0,
+        'rmb_price': '66.26',
+        'delivery_city_code': 0,
+        'supplier_id': 0,
+        'goods_state_name': '断货',
+        'is_favorite': 0,
+        'is_favorite_supplier': 0,
+        'small_image': 'https://file.yrmall.net/data/rental/goods/small/G200610-42247395.jpg',
+        'middle_image': 'https://file.yrmall.net/data/rental/goods/middle/G200610-42247395.jpg',
+        'large_image': 'https://file.yrmall.net/data/rental/goods/big/G200610-42247395.jpg',
+        'articles': None,
+        'is_bargain': 0
+      },
+      {
+        'goods_id': '2962415',
+        'goods_title': '女装裙子连衣裙',
+        'goods_type': 0,
+        'goods_type_name': '现货商品',
+        'order_min_qty': 0,
+        'order_max_qty': 0,
+        'rmb_price': '102.40',
+        'delivery_city_code': 0,
+        'supplier_id': 0,
+        'goods_state_name': '断货',
+        'is_favorite': 0,
+        'is_favorite_supplier': 0,
+        'small_image': 'https://file.yrmall.net/data/rental/goods/small/G200820-46605911.jpg',
+        'middle_image': 'https://file.yrmall.net/data/rental/goods/middle/G200820-46605911.jpg',
+        'large_image': 'https://file.yrmall.net/data/rental/goods/big/G200820-46605911.jpg',
+        'articles': None,
+        'is_bargain': 0
+      },
+      {
+        'goods_id': '2962413',
+        'goods_title': '女装裙子连衣裙',
+        'goods_type': 0,
+        'goods_type_name': '现货商品',
+        'order_min_qty': 0,
+        'order_max_qty': 0,
+        'rmb_price': '108.43',
+        'delivery_city_code': 0,
+        'supplier_id': 0,
+        'goods_state_name': '断货',
+        'is_favorite': 0,
+        'is_favorite_supplier': 0,
+        'small_image': 'https://file.yrmall.net/data/rental/goods/small/G200820-46562965.jpg',
+        'middle_image': 'https://file.yrmall.net/data/rental/goods/middle/G200820-46562965.jpg',
+        'large_image': 'https://file.yrmall.net/data/rental/goods/big/G200820-46562965.jpg',
+        'articles': None,
+        'is_bargain': 0
+      },
+      {
+        'goods_id': '2918516',
+        'goods_title': '女装裙子连衣裙',
+        'goods_type': 0,
+        'goods_type_name': '现货商品',
+        'order_min_qty': 0,
+        'order_max_qty': 0,
+        'rmb_price': '102.40',
+        'delivery_city_code': 0,
+        'supplier_id': 0,
+        'goods_state_name': '断货',
+        'is_favorite': 0,
+        'is_favorite_supplier': 0,
+        'small_image': 'https://file.yrmall.net/data/rental/goods/small/G200514-40575543.jpg',
+        'middle_image': 'https://file.yrmall.net/data/rental/goods/middle/G200514-40575543.jpg',
+        'large_image': 'https://file.yrmall.net/data/rental/goods/big/G200514-40575543.jpg',
+        'articles': None,
+        'is_bargain': 0
+      }
+    ],
+    'is_favorite': 0,
+    'is_favorite_supplier': 0,
+    'small_image': 'https://file.yrmall.net/data/rental/goods/small/G200820-46687422.jpg',
+    'middle_image': 'https://file.yrmall.net/data/rental/goods/middle/G200820-46687422.jpg',
+    'large_image': 'https://file.yrmall.net/data/rental/goods/big/G200820-46687422.jpg',
+    'articles': [
+      {
+        'Id': 1,
+        'Type': 'DaiGouFeiShuoMing',
+        'RegTime': '2019-09-23 00:00:00',
+        'ButtonText': '代购费说明',
+        'Title': None,
+        'Content': '代购费用：本站承诺所有公示商品价格为档口的批发价格，用户下单后采购人员前往档口采购，采购成功后做一次打包，待当天所有订单采购成功并打包完成后将此移动至办公室，经过分拣、称重等一系列环节为发货做准备，代购费用作为以上环节的人工费用，其他无任何加价，价格透明、诚信为本，可与任何0元代购费平台对比；'
+      },
+      {
+        'Id': 2,
+        'Type': 'YuFuYunFeiShuoMing',
+        'RegTime': '2019-09-23 00:00:00',
+        'ButtonText': '预付运费说明',
+        'Title': None,
+        'Content': '1）预付运费：鸳容网实行预付运费制度，遵循多退少补原则，预付金额与实际运费之间的差价将自动退还至您的充值卡账户中，充值卡余额可提现；<br />\r\n                            2）关于运费退补：东大门商品的出货日期由档口的配货情况而定，因此实际配货日期不同导致同一笔包裹中包含不同订单商品的情况也时有发生，考虑到本站每日发货量较多，故实行一包裹一称重制，故无法准确估算单件商品的实际重量，为了确保用户的经济利益不受损失，退补运费将于已发出商品同一笔订单内其他商品全部发出的情形下进行退补，由此给您造成的不便，敬请谅解 <br />\r\n                            3）根据本站运营原则，针对用户补差价的情形，请务必及时补全差价，由于未补足差价造成的收货延迟的情形，本站不承担任何责任；'
+      }
+    ],
+    'is_bargain': 0
+  }
+}
